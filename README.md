@@ -1,2 +1,5 @@
 # student-portal-demo-
-basic idea for a student
+Basic idea for a student
+Attendence Tracking System
+Weekly Text Results
+Semester Results
